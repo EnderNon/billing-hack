@@ -2,7 +2,7 @@
 
 This application allows to impersonate the Google Play Billing service (com.android.vending).
 
-This is an updated version of [Billing Hack](https://github.com/dschuermann/billing-hack/blob/master/README.md) by [@domschuermann](https://twitter.com/domschuermann)
+This is a version of [Techbrunch/Billing-Hack](https://github.com/Techbrunch/billing-hack) that has a built artefact and nothing changed. Techbrunch/Billing-Hack by itself is an updated version of [Billing Hack](https://github.com/dschuermann/billing-hack/blob/master/README.md) by [@domschuermann](https://twitter.com/domschuermann)
 
 ## How to use
 
